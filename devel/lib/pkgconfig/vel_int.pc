@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/devel
+
+Name: vel_int
+Description: Description of vel_int
+Version: 0.1.0
+Cflags: -I/home/rover/catkin_ws2/src/vel_int/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs std_msgs nav_msgs

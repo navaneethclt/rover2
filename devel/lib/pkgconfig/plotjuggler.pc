@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/devel
+
+Name: plotjuggler
+Description: Description of plotjuggler
+Version: 3.3.1
+Cflags: -I/home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/include
+Libs: -L${prefix}/lib -lplotjuggler_base
+Requires: roslib

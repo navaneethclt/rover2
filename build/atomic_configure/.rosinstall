@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rover/catkin_ws2/devel/setup.sh

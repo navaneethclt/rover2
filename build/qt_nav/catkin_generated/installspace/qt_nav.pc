@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/install
+
+Name: qt_nav
+Description: Description of qt_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

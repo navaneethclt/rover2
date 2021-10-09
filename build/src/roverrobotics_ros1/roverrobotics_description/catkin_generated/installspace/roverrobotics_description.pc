@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/install
+
+Name: roverrobotics_description
+Description: Description of roverrobotics_description
+Version: 2.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

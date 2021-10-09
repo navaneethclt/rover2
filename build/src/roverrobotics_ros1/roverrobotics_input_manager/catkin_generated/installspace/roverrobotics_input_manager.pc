@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/install
+
+Name: roverrobotics_input_manager
+Description: Description of roverrobotics_input_manager
+Version: 2.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

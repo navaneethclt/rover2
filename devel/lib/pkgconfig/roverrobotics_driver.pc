@@ -1,0 +1,8 @@
+prefix=/home/rover/catkin_ws2/devel
+
+Name: roverrobotics_driver
+Description: Description of roverrobotics_driver
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime pluginlib roscpp std_msgs sensor_msgs ds4_driver nav_msgs

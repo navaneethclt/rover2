@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/ToolboxFFT/KissFFT/kissfft_autogen/mocs_compilation.cpp
+
