@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h"
+#include "../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

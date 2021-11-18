@@ -112,7 +112,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt.cpp.o: /usr/incl
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_abstract_legend.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_abstract_legend.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_abstract_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_abstract_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_abstract_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -771,7 +771,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_date_scale_engin
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_date_scale_engine.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qvarlengtharray.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_date_scale_engine.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qversiontagging.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_dyngrid_layout.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_dyngrid_layout.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_dyngrid_layout.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_dyngrid_layout.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_dyngrid_layout.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -1214,7 +1214,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_interval_symbol.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_interval_symbol.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_interval_symbol.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -1445,7 +1445,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_data.cpp.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_data.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_data.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_graphic.h
@@ -1574,7 +1574,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_legend_label.cpp.o: PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_legend_label.cpp
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_magnifier.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_magnifier.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
@@ -2076,7 +2076,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_painter_command.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_painter_command.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_painter_command.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_painter.h
@@ -2189,7 +2189,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: /u
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_panner.cpp.o: PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_panner.cpp
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_picker.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_picker.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_math.h
@@ -2423,7 +2423,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_pixel_matrix.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_pixel_matrix.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qtypeinfo.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_pixel_matrix.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qversiontagging.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_scale_draw.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
@@ -3000,7 +3000,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_barchart.cp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_barchart.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_barchart.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_canvas.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_canvas.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -4104,7 +4104,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_legenditem.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_legenditem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_legenditem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_magnifier.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_magnifier.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_magnifier.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -4435,7 +4435,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_multi_barch
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_multi_barchart.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_multi_barchart.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -4572,7 +4572,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canv
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_opengl_canvas.cpp.o: PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_opengl_canvas.cpp
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -4711,7 +4711,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_panner.cpp.o: PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_panner.cpp
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_picker.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_picker.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_picker.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
@@ -4952,7 +4952,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rasteritem.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rasteritem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rasteritem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_scale_draw.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
@@ -5108,7 +5108,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_renderer.cpp.o: PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_renderer.cpp
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rescaler.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rescaler.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rescaler.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rescaler.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_rescaler.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -6025,7 +6025,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoneitem.cp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoneitem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoneitem.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoomer.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoomer.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoomer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoomer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_plot_zoomer.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
@@ -6687,7 +6687,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_round_scale_draw
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_round_scale_draw.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_round_scale_draw.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_sampling_thread.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_sampling_thread.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_sampling_thread.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_sampling_thread.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.cpp
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_sampling_thread.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
@@ -7038,7 +7038,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_map.cpp.o:
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_map.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qvector.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_map.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/qversiontagging.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_widget.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_widget.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_widget.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_scale_draw.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_widget.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_color_map.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_scale_widget.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
@@ -8016,7 +8016,7 @@ PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_engine.cpp.
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_engine.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_engine.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtWidgets/qwidget.h
 
-PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_label.cpp.o: ../src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
+PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_label.cpp.o: ../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_math.h
 PlotJuggler/3rdparty/qwt/src/CMakeFiles/plotjuggler_qwt.dir/qwt_text_label.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/qwt/src/qwt_painter.h

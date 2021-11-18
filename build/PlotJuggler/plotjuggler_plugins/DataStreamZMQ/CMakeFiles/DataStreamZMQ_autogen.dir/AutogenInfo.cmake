@@ -7,7 +7,7 @@ set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/rover/catkin_ws2/src/PlotJuggler/plotjugg
 set(AM_CMAKE_CURRENT_BINARY_DIR "/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/")
 set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/DataStreamZMQ_autogen")
-set(AM_SOURCES "/home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/datastream_zmq.cpp")
+set(AM_SOURCES "/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/datastream_zmq.cpp")
 set(AM_HEADERS "")
 # Qt environment
 set(AM_QT_VERSION_MAJOR "5")
@@ -25,7 +25,7 @@ set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
 set(AM_MOC_DEPEND_FILTERS "")
 set(AM_MOC_PREDEFS_CMD "/usr/bin/c++;-dM;-E;-c;/usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp")
 # UIC settings
-set(AM_UIC_SKIP "/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/DataStreamZMQ_autogen/mocs_compilation.cpp;/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/ui_datastream_zmq.h;/home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/datastream_zmq.ui")
+set(AM_UIC_SKIP "/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/DataStreamZMQ_autogen/mocs_compilation.cpp;/home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/ui_datastream_zmq.h;/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_plugins/DataStreamZMQ/datastream_zmq.ui")
 set(AM_UIC_TARGET_OPTIONS "")
 set(AM_UIC_OPTIONS_FILES "")
 set(AM_UIC_OPTIONS_OPTIONS "")

@@ -144,6 +144,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/rover/catkin_ws2/build/depthimage_to_laserscan/cmake_install.cmake")
   include("/home/rover/catkin_ws2/build/roverrobotics_ros1/roverrobotics_driver/cmake_install.cmake")
   include("/home/rover/catkin_ws2/build/rplidar_ros/cmake_install.cmake")
+  include("/home/rover/catkin_ws2/build/bag_plot/cmake_install.cmake")
   include("/home/rover/catkin_ws2/build/vel_int/cmake_install.cmake")
 
 endif()

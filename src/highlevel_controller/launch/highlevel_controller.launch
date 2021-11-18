@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <launch>
  
-<node name="rosbag" pkg="rosbag" type="record" args="record -o $(find highlevel_controller)/rosbag/ /cmd_vel/managed"> 
+<node name="rosbag" pkg="rosbag" type="record" args="record pos_calc -o $(find highlevel_controller)/rosbag/ "> 
 </node>
   <!-- Launching the highlevel controller node -->
 <include file="$(find vel_int)/launch/pos_calc.launch">

@@ -6,10 +6,10 @@ PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_auto
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: PlotJuggler/3rdparty/color_widgets/colorwidgets_autogen/6YEA5652QU/moc_color_wheel.cpp
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: PlotJuggler/3rdparty/color_widgets/colorwidgets_autogen/6YEA5652QU/moc_swatch.cpp
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: PlotJuggler/3rdparty/color_widgets/colorwidgets_autogen/mocs_compilation.cpp
-PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/color_widgets/include/color_palette.hpp
-PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/color_widgets/include/color_preview.hpp
-PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/color_widgets/include/color_wheel.hpp
-PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/color_widgets/include/swatch.hpp
+PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/color_palette.hpp
+PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/color_preview.hpp
+PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/color_wheel.hpp
+PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/swatch.hpp
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QObject
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QPair
 PlotJuggler/3rdparty/color_widgets/CMakeFiles/colorwidgets.dir/colorwidgets_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QString

@@ -527,6 +527,12 @@ backward_LIB_DEPENDS:STATIC=
 //Value Computed by CMake
 backward_SOURCE_DIR:STATIC=/home/rover/catkin_ws2/src/PlotJuggler/3rdparty/backward-cpp
 
+//Value Computed by CMake
+bag_plot_BINARY_DIR:STATIC=/home/rover/catkin_ws2/build/bag_plot
+
+//Value Computed by CMake
+bag_plot_SOURCE_DIR:STATIC=/home/rover/catkin_ws2/src/bag_plot
+
 //The directory containing a CMake configuration file for bond.
 bond_DIR:PATH=/opt/ros/melodic/share/bond/cmake
 
@@ -1009,7 +1015,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=22
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=23
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

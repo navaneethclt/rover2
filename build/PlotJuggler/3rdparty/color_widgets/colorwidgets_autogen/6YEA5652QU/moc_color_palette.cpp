@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../src/PlotJuggler/3rdparty/color_widgets/include/color_palette.hpp"
+#include "../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/color_palette.hpp"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #include <QtCore/QVector>

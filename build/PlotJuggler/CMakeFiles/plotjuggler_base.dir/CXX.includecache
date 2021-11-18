@@ -49,16 +49,16 @@ QtCore/qmetatype.h
 -
 
 /home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_base_autogen/GYWBYXAC32/moc_plotlegend.cpp
-../../../../src/PlotJuggler/plotjuggler_base/src/plotlegend.h
-/home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
+../../../../../ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 /home/rover/catkin_ws2/build/PlotJuggler/plotjuggler_base_autogen/GYWBYXAC32/moc_plotmagnifier.cpp
-../../../../src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
-/home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
+../../../../../ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -743,6 +743,24 @@ PlotJuggler/transform_function.h
 /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/transform_function.cpp
 PlotJuggler/transform_function.h
 /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/PlotJuggler/transform_function.h
+
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
+QObject
+-
+qwt_plot_legenditem.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/qwt_plot_legenditem.h
+qwt_plot.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/qwt_plot.h
+
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
+QTimer
+-
+qwt_plot_magnifier.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/qwt_plot_magnifier.h
+qwt_plot.h
+/home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/qwt_plot.h
+QEvent
+-
 
 /usr/include/aarch64-linux-gnu/qt5/QtCore/QDebug
 qdebug.h

@@ -20,22 +20,22 @@ PlotJuggler/3rdparty/Qt-Advanced-Docking/CMakeFiles/qt_advanced_docking.dir/qt_a
  /home/rover/catkin_ws2/build/PlotJuggler/3rdparty/Qt-Advanced-Docking/qt_advanced_docking_autogen/NU3FWKKRO4/moc_FloatingDockContainer.cpp
  /home/rover/catkin_ws2/build/PlotJuggler/3rdparty/Qt-Advanced-Docking/qt_advanced_docking_autogen/NU3FWKKRO4/moc_FloatingDragPreview.cpp
  /home/rover/catkin_ws2/build/PlotJuggler/3rdparty/Qt-Advanced-Docking/qt_advanced_docking_autogen/mocs_compilation.cpp
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTabBar.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTitleBar.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTitleBar_p.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaWidget.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockContainerWidget.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockFocusController.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockManager.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockOverlay.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockSplitter.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockWidget.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockWidgetTab.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/ElidingLabel.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/FloatingDockContainer.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/FloatingDragPreview.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/ads_globals.h
- /home/rover/catkin_ws2/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/src/linux/FloatingWidgetTitleBar.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTabBar.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTitleBar.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaTitleBar_p.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockAreaWidget.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockContainerWidget.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockFocusController.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockManager.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockOverlay.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockSplitter.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockWidget.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/DockWidgetTab.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/ElidingLabel.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/FloatingDockContainer.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/FloatingDragPreview.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/include/Qads/ads_globals.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/Qt-Advanced-Docking/src/linux/FloatingWidgetTitleBar.h
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QDebug
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QHash
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QObject

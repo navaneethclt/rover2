@@ -6,6 +6,7 @@
 #include <sensor_msgs/PointCloud2.h>
 #include <std_msgs/Float64.h>
 #include <geometry_msgs/Twist.h>
+#include<chrono>  
 namespace highlevel_controller {
 
 /**
@@ -21,6 +22,7 @@ class HighlevelController {
 
  private:
   bool readParameters();
+  double PID(double Kp, double Ki, double Kd, double error, double prev_error,double dt,double upper_limit);
   void scanCallback(const sensor_msgs::LaserScan::ConstPtr& msg);
   void EulerPosCallback(const geometry_msgs::Twist& msg);
   /*bonus task solution */
@@ -43,6 +45,12 @@ class HighlevelController {
  double pos_roll;
   /*bonus task solution */
   ros::Subscriber pclSubscriber_;
+
+long long prev_ms;
+double prev_error;
+double I_term;
+std::chrono::time_point<std::chrono::high_resolution_clock> time_start;
+ 
 };
 
 }  

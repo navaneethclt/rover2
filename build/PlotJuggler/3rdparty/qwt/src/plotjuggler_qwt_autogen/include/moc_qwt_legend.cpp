@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h"
+#include "../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #include <QtCore/QList>

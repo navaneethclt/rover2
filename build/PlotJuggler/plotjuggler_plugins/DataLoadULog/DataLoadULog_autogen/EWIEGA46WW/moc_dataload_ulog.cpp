@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../src/PlotJuggler/plotjuggler_plugins/DataLoadULog/dataload_ulog.h"
+#include "../../../../../../../ws_plotjuggler/src/PlotJuggler/plotjuggler_plugins/DataLoadULog/dataload_ulog.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #include <QtCore/qplugin.h>

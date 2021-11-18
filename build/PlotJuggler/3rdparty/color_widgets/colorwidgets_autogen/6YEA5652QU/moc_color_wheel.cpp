@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../src/PlotJuggler/3rdparty/color_widgets/include/color_wheel.hpp"
+#include "../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/color_widgets/include/color_wheel.hpp"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

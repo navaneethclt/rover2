@@ -1778,8 +1778,8 @@ PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compil
  /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_samples.h
  /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_series_data.h
  /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_series_store.h
- /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
- /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
+ /home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QEvent
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QObject
  /usr/include/aarch64-linux-gnu/qt5/QtCore/QTimer

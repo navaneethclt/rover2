@@ -6,53 +6,53 @@
 
 #IncludeRegexTransform: 
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qframe.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qlayout.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_abstract_legend.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 qwt_legend_data.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_data.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_data.h
 qvariant.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_text_label.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
 qwt_legend_data.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_data.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_data.h
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qobject.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwidget.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_event_pattern.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_event_pattern.h
 qobject.h
 -
 qwt_picker.h
@@ -60,13 +60,13 @@ qwt_picker.h
 qwt_picker_machine.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_axis_id.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 qwt_plot_dict.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_dict.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_dict.h
 qframe.h
 -
 qwt_plot.h
@@ -74,83 +74,83 @@ qwt_plot.h
 qwt_plot_curve.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_plot_abstract_canvas.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_abstract_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_abstract_canvas.h
 qframe.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_axis_id.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 qwt_magnifier.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_plot_abstract_canvas.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_abstract_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_abstract_canvas.h
 qopenglwidget.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_panner.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
 qwt_axis_id.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_picker.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
 qwt_axis_id.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_axis_id.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_axis_id.h
 qobject.h
 -
 qsize.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_plot.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
 qobject.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_plot_picker.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qthread.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_text.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_text.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text.h
 qwt_scale_draw.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_scale_draw.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_scale_draw.h
 qwidget.h
 -
 qfont.h
@@ -160,11 +160,11 @@ qcolor.h
 qstring.h
 -
 
-../src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
 qwt_global.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_global.h
 qwt_text.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_text.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text.h
 qframe.h
 -
 
@@ -4235,8 +4235,8 @@ QtGui/qevent.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_abstract_legend.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_abstract_legend.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -4245,16 +4245,16 @@ QtCore/QList
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_dyngrid_layout.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_dyngrid_layout.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_legend.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -4263,40 +4263,40 @@ QtCore/QList
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_legend_label.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_legend_label.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_magnifier.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_magnifier.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_panner.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_panner.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_picker.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_picker.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -4305,40 +4305,40 @@ QtCore/QList
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_canvas.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_canvas.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_magnifier.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_magnifier.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_opengl_canvas.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_opengl_canvas.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_panner.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_panner.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_picker.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_picker.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -4347,48 +4347,48 @@ QtCore/QVector
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_renderer.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_renderer.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_rescaler.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_rescaler.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_plot_zoomer.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_plot_zoomer.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_sampling_thread.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_sampling_thread.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_scale_widget.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_scale_widget.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
 PlotJuggler/3rdparty/qwt/src/plotjuggler_qwt_autogen/include/moc_qwt_text_label.cpp
-../../../../../../../src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
-../src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
+../../../../../../../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
+../../ws_plotjuggler/src/PlotJuggler/3rdparty/qwt/src/qwt_text_label.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h

@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h"
+#include "../../../../../ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

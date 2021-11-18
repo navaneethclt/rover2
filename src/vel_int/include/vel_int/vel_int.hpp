@@ -39,10 +39,11 @@ class Velint {
  double prev_ang_vel[3];
  double linear_pos[3];
  double ang_pos[3];
- long long prev_ms;
+ 
  double linear_vel[3];
  double angular_vel[3];
- 
+
+ long long prev_ms;
  std::chrono::time_point<std::chrono::high_resolution_clock> time_start;
  
   

@@ -1777,8 +1777,8 @@ PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compil
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_samples.h
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_series_data.h
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/./3rdparty/qwt/src/qwt_series_store.h
-PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
-PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/catkin_ws2/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
+PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotlegend.h
+PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /home/rover/ws_plotjuggler/src/PlotJuggler/plotjuggler_base/src/plotmagnifier.h
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QEvent
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QObject
 PlotJuggler/CMakeFiles/plotjuggler_base.dir/plotjuggler_base_autogen/mocs_compilation.cpp.o: /usr/include/aarch64-linux-gnu/qt5/QtCore/QTimer

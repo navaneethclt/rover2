@@ -7,7 +7,7 @@ set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/rover/catkin_ws2/src/PlotJuggler/3rdparty
 set(AM_CMAKE_CURRENT_BINARY_DIR "/home/rover/catkin_ws2/build/PlotJuggler/3rdparty/backward-cpp/")
 set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "/home/rover/catkin_ws2/build/PlotJuggler/3rdparty/backward-cpp/backward_object_autogen")
-set(AM_SOURCES "/home/rover/catkin_ws2/src/PlotJuggler/3rdparty/backward-cpp/backward.cpp")
+set(AM_SOURCES "/home/rover/ws_plotjuggler/src/PlotJuggler/3rdparty/backward-cpp/backward.cpp")
 set(AM_HEADERS "")
 # Qt environment
 set(AM_QT_VERSION_MAJOR "5")
